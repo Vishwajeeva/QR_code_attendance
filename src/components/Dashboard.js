@@ -6,7 +6,6 @@ import axios from 'axios';
 function Dashboard() {
     const [attendance, setAttendance] = useState([]);
     const userRole = localStorage.getItem('role'); // Determine whether student or faculty
-    
 
     useEffect(() => {
         const fetchAttendance = async () => {
