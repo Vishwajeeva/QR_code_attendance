@@ -1,0 +1,42 @@
+/* src/components/Navbar.css */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: #6c50f9f8;
+    color: white;
+  }
+  
+  .logo-container h1 {
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    margin-left: 300px;
+  }
+  .logo {
+    width: 190px;  /* Adjust the logo size */
+    height: auto;
+    margin-right: 100px;  /* Space between logo and text */
+  }
+  
+  
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  ul li {
+    margin-left: 20px;
+  }
+  
+  ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  ul li a:hover {
+    color: #f0f0f0;
+  }
+  
