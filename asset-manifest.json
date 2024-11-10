@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vishwajeeva/QR_code_attendance/static/css/main.3e5dd5cc.css",
-    "main.js": "/Vishwajeeva/QR_code_attendance/static/js/main.b3b80e86.js",
-    "static/media/bg.png": "/Vishwajeeva/QR_code_attendance/static/media/bg.ae552d38f53f938783a3.png",
-    "static/media/apt1.png": "/Vishwajeeva/QR_code_attendance/static/media/apt1.4f611b928d3b56d5fb33.png",
-    "index.html": "/Vishwajeeva/QR_code_attendance/index.html",
-    "main.3e5dd5cc.css.map": "/Vishwajeeva/QR_code_attendance/static/css/main.3e5dd5cc.css.map",
-    "main.b3b80e86.js.map": "/Vishwajeeva/QR_code_attendance/static/js/main.b3b80e86.js.map"
+    "main.css": "/QR_code_attendance/static/css/main.3e5dd5cc.css",
+    "main.js": "/QR_code_attendance/static/js/main.a1c1d8a7.js",
+    "static/media/bg.png": "/QR_code_attendance/static/media/bg.ae552d38f53f938783a3.png",
+    "static/media/apt1.png": "/QR_code_attendance/static/media/apt1.4f611b928d3b56d5fb33.png",
+    "index.html": "/QR_code_attendance/index.html",
+    "main.3e5dd5cc.css.map": "/QR_code_attendance/static/css/main.3e5dd5cc.css.map",
+    "main.a1c1d8a7.js.map": "/QR_code_attendance/static/js/main.a1c1d8a7.js.map"
   },
   "entrypoints": [
     "static/css/main.3e5dd5cc.css",
-    "static/js/main.b3b80e86.js"
+    "static/js/main.a1c1d8a7.js"
   ]
 }
